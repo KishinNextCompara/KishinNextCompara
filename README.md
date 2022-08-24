@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KishinNextCompara
 - 👀 I’m interested in Cloud, Data Science, BI, ML and AI
-- 🌱 I’m currently learning Cloud (Azure, Google Cloud)
+- 🌱 I’m currently learning Cloud (Azure, AWS)
 - 💞️ I’m looking to collaborate on funny projects!!
 - 📫 How to reach me 
 
